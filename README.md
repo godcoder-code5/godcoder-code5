@@ -22,6 +22,7 @@ Get in Touch
 I’d love to connect with other developers and collaborate on exciting projects. Reach out to me through:
 
 Email: mohitkrmishra2511@gmail.com
+
 Fun Fact
 
 🌟 Fun fact about me: I started coding when I was 12 but i had to leave it by the age of 14 and now again i am back at the age of 17 reviving my carrer in coding.
