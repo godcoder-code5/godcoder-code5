@@ -14,6 +14,7 @@ I’m currently exploring:
 I am currently doing specialization in AI and ML from SGT University.
 Learning python from Angela Yu.
 I am Currently working on Health Analyst which is an AI helping the people in medical profession.
+
 💡 What I’m Passionate About
 
 Open-source projects: I love contributing to open-source and learning from other developers.
